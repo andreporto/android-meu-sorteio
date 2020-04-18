@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meu Sorteio</string>
+    <string name="nenhum_sorteado">Nenhum sorteado</string>
+    <string name="btn_sortear">Sortear Número</string>
+    <string name="label_limite">Informe o número limite para sorteio</string>
+    <string name="limite_default">10</string>
+</resources>
